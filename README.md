@@ -7,7 +7,7 @@
 
 - 🖥️ I started programming when I was 10 and since the first day... I loved it!
 - 🎯 I wish some day I could be a gamedev.
-- 🧗🏼 I also love climbing but does not make much sesne saying that in here...
+- 🧗🏼 I also love climbing but does not make much sense saying that in here...
 
 
 <h2 align="left">What am i doing right now? 🍿</h2>
