@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="center">My name is Biel and i am a fullstack developer from Catalonia</h3>
+<h3 align="center">My name is Biel and I am a fullstack developer from Catalonia</h3>
 
 <h2 align="left">About me 👽</h2>
 
