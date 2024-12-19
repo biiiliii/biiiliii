@@ -17,7 +17,7 @@
 - 🤝 I’m looking for help with **game design**
 - 🧑🏻‍🏫 I'm a **programming** and **robotics** teacher
 
-<h2 align="left">Whate are all those commits on a private repo? 🤨</h2>
+<h2 align="left">What are all those commits on a private repo? 🤨</h2>
 
 I'm passionate about game development and currently dedicating my time to a private project. My goal is to release it commercially, so I'm keeping the codebase private for now. Stay tuned for updates and future public projects!
 
