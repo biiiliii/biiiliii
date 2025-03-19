@@ -13,8 +13,7 @@
 <h2 align="left">What am i doing right now? 🍿</h2>
 
 - 🔭 I’m currently working on **an indie videogame**
-- 🌱 I’m always learning **gamedev**
-- 🤝 I’m looking for help with **game design**
+- 🌱 I’m always learning **anything**
 - 🧑🏻‍🏫 I'm a **programming** and **robotics** teacher
 
 <h2 align="left">What are all those commits on a private repo? 🤨</h2>
